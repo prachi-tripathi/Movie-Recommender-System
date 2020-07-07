@@ -7,10 +7,10 @@
 ![casesLines](./output/footer.PNG)
 
 # Required Installations
-pip install requests
-pip install responses
-pip install ipywidgets (https://ipywidgets.readthedocs.io/en/latest/user_install.html)
-pip install voila
+1. pip install requests <br>
+2. pip install responses
+3. pip install ipywidgets (https://ipywidgets.readthedocs.io/en/latest/user_install.html)
+4. pip install voila
 
 # For Hosting the NoteBook 
-used voila 
+1. Used Voila 
