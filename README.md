@@ -1,5 +1,5 @@
 # Movie Recommender System
-# Data Repo
+# Data Repository
 https://grouplens.org/datasets/movielens/latest/
 
 ![casesLines](./output/Header.PNG)
