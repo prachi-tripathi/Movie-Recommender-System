@@ -13,5 +13,5 @@ https://grouplens.org/datasets/movielens/latest/
 3. pip install ipywidgets (https://ipywidgets.readthedocs.io/en/latest/user_install.html)
 4. pip install voila
 
-# For Hosting the NoteBook 
+# For Hosting the Jupyter NoteBook 
 1. Used Voila 
